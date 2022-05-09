@@ -6,3 +6,4 @@ x = dias * diaria
 y = km * kmrodados
 z = x + y
 print(' O valor total a se pagar pelo carro é de {}'.format(z))
+print(" teste ")
